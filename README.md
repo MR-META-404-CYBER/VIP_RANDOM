@@ -1,7 +1,7 @@
 ## COMMAND :
 
 
-* `New Update Done `
+* `New Update Done💚🥀 `
 
 * `rm -rf VIP_RANDOM`
 
